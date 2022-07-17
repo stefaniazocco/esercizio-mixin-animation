@@ -35,8 +35,7 @@ button {
     0%, 20%, 50%, 80%, 100% {transform: translateY($partenza);} 
     40% {transform: translateY($distanza);} 
     60% {transform: translateY($distanza / 2);} 
-    /*scusa Patrizio per la parte successiva, ci stavamo divertendo... 
-    se lo guardi nel browser rimani ipnotizzato*/
+    /* ulteriori animazioni just for fun*/
     70% {transform: rotate(180deg);}
     30% {background-color: greenyellow;}
     90% {font-size: 5rem;}
